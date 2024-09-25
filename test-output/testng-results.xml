@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="14" total="22" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T14:34:09 IST" name="Suite" finished-at="2024-09-03T14:36:50 IST" duration-ms="161821">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T14:34:09 IST" name="Test" finished-at="2024-09-03T14:36:50 IST" duration-ms="161821">
+      <class name="testCases.TC008_ITW_BrandFilter">
+        <test-method signature="annualRevenuefilter()[pri:8, instance:testCases.TC008_ITW_BrandFilter@36bc55de]" started-at="2024-09-03T14:36:39 IST" name="annualRevenuefilter" finished-at="2024-09-03T14:36:50 IST" duration-ms="10922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- annualRevenuefilter -->
+      </class> <!-- testCases.TC008_ITW_BrandFilter -->
+      <class name="testCases.TC001_ITW_BrandFilter">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_ITW_BrandFilter@222545dc]" started-at="2024-09-03T14:34:03 IST" name="setup" finished-at="2024-09-03T14:34:09 IST" duration-ms="5526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HQloction()[pri:1, instance:testCases.TC001_ITW_BrandFilter@222545dc]" started-at="2024-09-03T14:34:09 IST" name="HQloction" finished-at="2024-09-03T14:35:04 IST" duration-ms="54667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HQloction -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC001_ITW_BrandFilter@222545dc]" started-at="2024-09-03T14:36:51 IST" name="close" finished-at="2024-09-03T14:36:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC001_ITW_BrandFilter -->
+      <class name="testCases.TC006_ITW_BrandFilter">
+        <test-method signature="closeddealfilter()[pri:6, instance:testCases.TC006_ITW_BrandFilter@7e07db1f]" started-at="2024-09-03T14:36:22 IST" name="closeddealfilter" finished-at="2024-09-03T14:36:31 IST" duration-ms="8669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeddealfilter -->
+      </class> <!-- testCases.TC006_ITW_BrandFilter -->
+      <class name="testCases.TC003_ITW_BrandFilter">
+        <test-method signature="HQRegioncityfilter()[pri:3, instance:testCases.TC003_ITW_BrandFilter@79e2c065]" started-at="2024-09-03T14:35:24 IST" name="HQRegioncityfilter" finished-at="2024-09-03T14:35:56 IST" duration-ms="32238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HQRegioncityfilter -->
+      </class> <!-- testCases.TC003_ITW_BrandFilter -->
+      <class name="testCases.TC004_ITW_BrandFilter">
+        <test-method signature="Industriesfilter()[pri:4, instance:testCases.TC004_ITW_BrandFilter@3a93b025]" started-at="2024-09-03T14:35:56 IST" name="Industriesfilter" finished-at="2024-09-03T14:36:09 IST" duration-ms="12913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Industriesfilter -->
+      </class> <!-- testCases.TC004_ITW_BrandFilter -->
+      <class name="testCases.TC007_ITW_BrandFilter">
+        <test-method signature="allcloseddealfilter()[pri:7, instance:testCases.TC007_ITW_BrandFilter@1189dd52]" started-at="2024-09-03T14:36:31 IST" name="allcloseddealfilter" finished-at="2024-09-03T14:36:39 IST" duration-ms="8620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allcloseddealfilter -->
+      </class> <!-- testCases.TC007_ITW_BrandFilter -->
+      <class name="testCases.TC005_ITW_BrandFilter">
+        <test-method signature="searchIndustriesfilter()[pri:5, instance:testCases.TC005_ITW_BrandFilter@35cabb2a]" started-at="2024-09-03T14:36:09 IST" name="searchIndustriesfilter" finished-at="2024-09-03T14:36:22 IST" duration-ms="13125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIndustriesfilter -->
+      </class> <!-- testCases.TC005_ITW_BrandFilter -->
+      <class name="testCases.TC002_ITW_BrandFilter">
+        <test-method signature="HQRegionFilter()[pri:2, instance:testCases.TC002_ITW_BrandFilter@478190fc]" started-at="2024-09-03T14:35:04 IST" name="HQRegionFilter" finished-at="2024-09-03T14:35:24 IST" duration-ms="20120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HQRegionFilter -->
+      </class> <!-- testCases.TC002_ITW_BrandFilter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
